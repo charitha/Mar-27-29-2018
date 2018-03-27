@@ -1,4 +1,4 @@
-# Intro to GraphQL, Relay, Redux
+# GraphQL, Relay, Redux
 
 ```javascript
 const instructorDetails = {
