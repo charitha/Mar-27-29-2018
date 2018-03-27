@@ -3,10 +3,9 @@
 ```javascript
 const instructorDetails = {
 	name: "Prabhu Sunderaraman",
-	emails: ["prabhu@durasoftindia.com"]
+	email: "prabhu@durasoftindia.com",
 	blog: "http://healthycoder.in",
 	facebook: "https://facebook.com/i.prabhu.sunderaraman",
-	youtube: "https://youtube.com/user/healthycoderprabhu",
 	books: ["Spring 3.0 Black Book", "Practical Ext JS 4"]
 }
 ```
