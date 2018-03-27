@@ -15,7 +15,7 @@ const instructorDetails = {
 const courseDetails = {
 	highlights: ["GraphQL", "Relay", "Redux"],
 	modusOperandi: "You're going to learn by writing lot of code",
-	preRequisites: "Interested in coding"
+	preRequisites: "ES2017; React JS; Interested in coding"
 }
 ```
 
