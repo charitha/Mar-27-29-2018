@@ -13,9 +13,10 @@ const instructorDetails = {
 
 ```javascript
 const courseDetails = {
-	highlights: ["GraphQL", "Relay", "Redux"],
+	contents: ["GraphQL", "Relay", "Redux"],
 	modusOperandi: "You're going to learn by writing lot of code",
-	preRequisites: "ES2017; React JS; Interested in coding"
+	preRequisites: ["ES2017", "React JS"],
+	note: "Should love coding"
 }
 ```
 
